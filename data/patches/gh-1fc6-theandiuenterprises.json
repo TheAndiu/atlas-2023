@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "TheAndiuEnterprises",
+	"description": "Logo de TheAndiuEnterprises pixelart version",
+	"links": {
+		"subreddit": [
+			"Andiu"
+		],
+		"discord": [
+			"4C7zpymMyu"
+		]
+	},
+	"path": {
+		"217-256": [
+			[
+				1207,
+				-747
+			],
+			[
+				1227,
+				-747
+			],
+			[
+				1227,
+				-730
+			],
+			[
+				1207,
+				-730
+			],
+			[
+				1207,
+				-746
+			]
+		]
+	},
+	"center": {
+		"217-256": [
+			1217,
+			-738
+		]
+	}
+}
